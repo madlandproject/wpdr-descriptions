@@ -1,0 +1,13 @@
+/*
+.wpdr-description .mceIframeContainer {
+    background-color: white;
+}
+*/
+
+textarea {
+    width: 100%;
+}
+
+.wpdr-description h3 {
+    cursor: default !important;
+}
